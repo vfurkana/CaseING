@@ -1,2 +1,0 @@
-# CaseING
-ING Interview Case

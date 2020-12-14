@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ingOrange">#ec6d2d</color>
+    <color name="ingOrangeLight">#ff9e5b</color>
+    <color name="ingOrangeDark">#b33e00</color>
+
+    <color name="ingBlue">#112f6b</color>
+    <color name="ingBlueLight">#47589a</color>
+    <color name="ingBlueLight_30">#4d47589a</color>
+    <color name="ingBlueDark">#000640</color>
+
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+
+</resources>

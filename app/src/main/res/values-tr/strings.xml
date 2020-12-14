@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CaseING</string>
+    <string name="Username">Kullanıcı Adı</string>
+    <string name="Submit">Ara</string>
+    <string name="error_invalid_username">Please enter a valid username</string>
+    <string name="Owner">Owner</string>
+    <string name="Stars_">Stars : %1$d</string>
+    <string name="Open_Issues_">Open Issues : %1$d</string>
+</resources>
